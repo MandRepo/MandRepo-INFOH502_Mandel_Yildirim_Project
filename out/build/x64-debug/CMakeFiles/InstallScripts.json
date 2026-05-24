@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/eliot/Desktop/ULB/3DGraphic/project/Mandel_Yldirim/out/build/x64-debug/cmake_install.cmake",
+		"C:/Users/eliot/Desktop/ULB/3DGraphic/project/Mandel_Yldirim/out/build/x64-debug/libraries/glfw/cmake_install.cmake",
+		"C:/Users/eliot/Desktop/ULB/3DGraphic/project/Mandel_Yldirim/out/build/x64-debug/libraries/glfw/src/cmake_install.cmake",
+		"C:/Users/eliot/Desktop/ULB/3DGraphic/project/Mandel_Yldirim/out/build/x64-debug/project/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
